@@ -131,3 +131,7 @@ All outputs are written to the `OUTPUT_DIR` (default: `stac_summaries_final`):
 * **Error handling**: The script continues past individual failures; review console output for errors.
 
 ---
+
+## License
+
+This project is open source and available under the MIT License.
